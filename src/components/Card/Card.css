@@ -1,0 +1,11 @@
+.card {
+  padding: 20px;
+  box-shadow: 5px 5px 5px rgb(139, 136, 136);
+  text-align: center;
+}
+.cardBtn button {
+  width: 70%;
+}
+.propsIcon {
+  font-size: 30px;
+}

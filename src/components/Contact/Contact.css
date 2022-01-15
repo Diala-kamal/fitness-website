@@ -1,0 +1,35 @@
+.contactImg img {
+  width: 100%;
+  height: 600px;
+}
+
+.contactInfo {
+  background-color: #dfdfdf;
+  height: 600px;
+  padding: 40px;
+}
+.contactInfo ul li {
+  list-style: none;
+  padding: 20px;
+}
+.contactInfo h3 {
+  font-size: 15px;
+  margin: 0;
+}
+.contactInfo span {
+  font-size: 10px;
+}
+.col-md-6 {
+  padding: 0;
+}
+.contactInfo h1 {
+  color: #0453f1;
+}
+
+.contactImg.col-md-6 {
+  padding: 0;
+}
+
+.contact {
+  margin-top: 30px;
+}

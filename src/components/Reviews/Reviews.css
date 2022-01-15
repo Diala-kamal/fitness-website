@@ -1,0 +1,13 @@
+.reviews {
+  background-color: #dfdfdf;
+  margin-top: 30px;
+  height: 600px;
+  display: flex;
+  align-items: center;
+}
+
+.reviews h1 {
+  position: relative;
+  bottom: 100px;
+  color: #0453f1;
+}

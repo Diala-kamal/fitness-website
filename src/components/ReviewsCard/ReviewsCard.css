@@ -1,0 +1,25 @@
+.reviewscard {
+  padding: 20px;
+  box-shadow: 5px 5px 5px rgb(139, 136, 136);
+  text-align: center;
+  background-color: #fff;
+}
+
+.revImg img {
+  width: 90px;
+  height: 90px;
+  top: 15px;
+  position: relative;
+  border-radius: 50%;
+}
+
+.revImg {
+  width: 120px;
+  height: 120px;
+  left: 120px;
+  position: relative;
+  background-color: #fff;
+  position: relative;
+  border-radius: 50%;
+  bottom: 70px;
+}
